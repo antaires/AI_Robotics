@@ -4,4 +4,4 @@ a series of Python programs dealing with Artificial Intelligence. A range of div
 * 2D localisation using Monte Carlo probabilitic methods (also called histogram filters)
 * Kalman filters and tracking objects in traffic
 
-These programs were written for Sebastian Thrun's (Georgia Tech) AI for Robotics course. 
+These programs were written for Sebastian Thrun's CS373: AI for Robotics course. 
